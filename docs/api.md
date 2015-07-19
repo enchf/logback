@@ -4,6 +4,7 @@ API
 
 Project
 -------
+*   list() - Lists all projects. *
 *   create(name) - Creates a project. *
 *   conclude(name) - Closes or suspends a project. *
 *   reopen(name) - Reopens a suspended project. *
